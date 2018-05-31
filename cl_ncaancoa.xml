@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "cl_ncaancoa">
+	<slot number = "1" name = "secção 1">
+		<pattr name = "direct_input_gain" value = "105" />
+		<pattr name = "input_matrix" value = "0 0 1" />
+		<patcher name = "cl_ncaancoaDelBase1">
+			<pattr name = "delay1_gain" value = "63" />
+			<pattr name = "delay_max" value = "8000" />
+			<pattr name = "delay_min" value = "3000" />
+			<patcher name = "mute">
+				<pattr name = "delay1_gain_mem" value = "63" />
+			</patcher>
+		</patcher>
+		<patcher name = "cl_ncaancoaDelBase2">
+			<pattr name = "delay1_gain" value = "134" />
+			<pattr name = "delay_max" value = "8000" />
+			<pattr name = "delay_min" value = "4000" />
+			<patcher name = "mute">
+				<pattr name = "delay1_gain_mem" value = "134" />
+			</patcher>
+		</patcher>
+		<patcher name = "Audio_IN_OUT">
+			<pattr name = "output_matrix" value = "0 0 1 0 1 1 1 0 1 2 1 1" />
+		</patcher>
+	</slot>
+	<slot number = "2" name = "secção 2">
+		<pattr name = "direct_input_gain" value = "105" />
+		<pattr name = "input_matrix" value = "0 0 1" />
+		<patcher name = "cl_ncaancoaDelBase1">
+			<pattr name = "delay1_gain" value = "63" />
+			<pattr name = "delay_max" value = "8000" />
+			<pattr name = "delay_min" value = "3000" />
+			<patcher name = "mute">
+				<pattr name = "delay1_gain_mem" value = "63" />
+			</patcher>
+		</patcher>
+		<patcher name = "cl_ncaancoaDelBase2">
+			<pattr name = "delay1_gain" value = "134" />
+			<pattr name = "delay_max" value = "8000" />
+			<pattr name = "delay_min" value = "4000" />
+			<patcher name = "mute">
+				<pattr name = "delay1_gain_mem" value = "134" />
+			</patcher>
+		</patcher>
+		<patcher name = "Audio_IN_OUT">
+			<pattr name = "output_matrix" value = "0 0 1 0 1 1 1 0 1 2 1 1" />
+		</patcher>
+	</slot>
+	<slot number = "3" name = "outro teste">
+		<pattr name = "direct_input_gain" value = "87" />
+		<pattr name = "input_matrix" value = "16 0 1" />
+		<patcher name = "cl_ncaancoaDelBase1">
+			<pattr name = "delay1_gain" value = "" />
+			<pattr name = "delay_max" value = "" />
+			<pattr name = "delay_min" value = "" />
+			<patcher name = "mute">
+				<pattr name = "delay1_gain_mem" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "cl_ncaancoaDelBase2">
+			<pattr name = "delay1_gain" value = "" />
+			<pattr name = "delay_max" value = "" />
+			<pattr name = "delay_min" value = "" />
+			<patcher name = "mute">
+				<pattr name = "delay1_gain_mem" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "Audio_IN_OUT">
+			<pattr name = "output_matrix" value = "0 0 1 0 1 1 1 0 1 2 1 1" />
+		</patcher>
+	</slot>
+	<slot number = "4" name = "Patch to test signal">
+		<pattr name = "direct_input_gain" value = "117" />
+		<pattr name = "input_matrix" value = "16 0 1" />
+		<patcher name = "cl_ncaancoaDelBase1">
+			<pattr name = "delay1_gain" value = "" />
+			<pattr name = "delay_max" value = "" />
+			<pattr name = "delay_min" value = "" />
+			<patcher name = "mute">
+				<pattr name = "delay1_gain_mem" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "cl_ncaancoaDelBase2">
+			<pattr name = "delay1_gain" value = "" />
+			<pattr name = "delay_max" value = "" />
+			<pattr name = "delay_min" value = "" />
+			<patcher name = "mute">
+				<pattr name = "delay1_gain_mem" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "Audio_IN_OUT">
+			<pattr name = "output_matrix" value = "" />
+		</patcher>
+	</slot>
+</pattrstorage>
+
