@@ -9,6 +9,7 @@ You'll need at least the MaxMSP Runtime Application to run it.<br>
 -Setup inputs and outputs.
 -For general operation just click the buttons to trigger the next delay settings.
 
+## Score and References
 You can find the score at the Portuguese Music Information & Research Centre (http://mic.pt/) here: http://www.mic.pt/dispatcher?where=4&what=2&show=4&grupo_id=6480&lang=EN
 
 For information about use, issues and discussion, see:<br>
