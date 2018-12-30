@@ -24,10 +24,11 @@ For information about use, issues and discussion, see:<br>
 - 2009, september-december - first stable version, used for the recording of the CD (Pinto 2014).
 
 ## Disclaimer:
-These patches are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+These patches are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.<br>
 
-Faculdade de Belas-Artes, Universidade de Lisboa<br>
+Universidade de Lisboa, Faculdade de Belas-Artes<br>
 Largo da Academia Nacional de Belas-Artes<br>
 1249-058 Lisboa, Portugal<br>
+http://www.belasartes.ulisboa.pt/
 
 www.sousadias.com
