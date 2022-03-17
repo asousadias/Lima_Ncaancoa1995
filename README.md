@@ -1,5 +1,6 @@
 # Cândido Lima: _Ñcáãncôa_ (1995) Max Patcher
 Design and programming: António de Sousa Dias
+a.sousadias@belasartes.ulisboa.pt
 
 Here you'll find the Max patch \_CL_Ncaancoa.maxpat and all the subpatchers needed to perform Cândido Lima's _Ñcáãncôa_, for Clarinet and Live electronics.
 
@@ -30,5 +31,3 @@ Universidade de Lisboa, Faculdade de Belas-Artes<br>
 Largo da Academia Nacional de Belas-Artes<br>
 1249-058 Lisboa, Portugal<br>
 http://www.belasartes.ulisboa.pt/
-
-www.sousadias.com
